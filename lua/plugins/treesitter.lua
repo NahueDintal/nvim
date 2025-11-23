@@ -12,6 +12,7 @@ return {
       -- !
       "c_sharp",
       "razor",
+      "python",
     },
   },
 }

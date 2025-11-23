@@ -13,6 +13,7 @@ return {
         "css",
         "c_sharp",
         "razor",
+        "python",
       },
     },
   },
