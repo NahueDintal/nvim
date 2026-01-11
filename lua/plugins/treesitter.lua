@@ -8,6 +8,7 @@ return {
       "vimdoc",
       "html",
       "css",
+      "java",
 
       -- !
       "c_sharp",

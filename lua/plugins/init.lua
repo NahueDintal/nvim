@@ -139,13 +139,13 @@ return {
       "nvim-treesitter/nvim-treesitter",
       "Issafalcon/neotest-dotnet",
     },
-    config = function()
-      require("neotest").setup({
-        adapters = {
-          require("neotest-dotnet"),
-        },
-      })
-    end,
+    -- config = function()
+    --   require("neotest").setup({
+    --     adapters = {
+    --       require("neotest-dotnet"),
+    --     },
+    --   })
+    -- end,
   },
 
   -- Plugin 7 - neotest-dotnet
