@@ -1,1 +1,0 @@
-/home/nahue/.config/omarchy/current/theme/neovim.lua

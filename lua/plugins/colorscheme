@@ -1,6 +1,7 @@
 return {
   {
     "Tsuzat/NeoSolarized.nvim",
+    name = "aurora",
     lazy = false,
     priority = 1000,
     config = function()
