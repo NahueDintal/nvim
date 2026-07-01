@@ -9,8 +9,6 @@ return {
       "html",
       "css",
       "java",
-
-      -- !
       "c_sharp",
       "razor",
       "python",
