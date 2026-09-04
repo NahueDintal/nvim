@@ -10,6 +10,8 @@ return {
         },
       },
     })
-    vim.cmd.colorscheme("carbonfox") --carbonfox, duskfox y nightfox
+    -- Cambia esta línea por la variante que quieras:
+    -- "nightfox", "carbonfox", "dayfox", "dawnfox", "duskfox", "nordfox", "terafox"
+    vim.cmd.colorscheme("carbonfox")
   end,
 }
