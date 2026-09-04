@@ -4,7 +4,7 @@ return {
     branch = "0.5-compat",
     config = function()
       require("feline").setup({
-        preset = "luizcoro2",
+        preset = "default",
       })
     end,
   },
